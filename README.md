@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
+![Node.js Package](https://github.com/maheshkareeya/nextjs/workflows/Node.js%20Package/badge.svg)
+
 ## Getting Started
 
 First, run the development server:
